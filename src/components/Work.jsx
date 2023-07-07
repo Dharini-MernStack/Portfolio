@@ -149,7 +149,7 @@ const Work = () => {
                 Personal Portfolio Application- ReactJs,TailwindCSS
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/Dharini-MernStack/Portfolio">
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-black font-bold text-lg"
@@ -158,7 +158,7 @@ const Work = () => {
                   </button>
                 </a>
 
-                <a href="/">
+                <a href="https://dharini-portfolio.onrender.com">
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
                        bg-black text-white font-bold text-lg"

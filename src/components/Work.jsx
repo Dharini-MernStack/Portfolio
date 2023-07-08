@@ -3,7 +3,7 @@ import WorkImg1 from "../assets/WorkImg2.jpg";
 import WorkImg2 from "../assets/WorkImg1.jpg";
 import WorkImg3 from "../assets/workImg3.jpg";
 import WorkImg4 from "../assets/WorkImg4.jpg";
-import WorkImg5 from "../assets/WorkImg5.jpg";
+import WorkImg5 from "../assets/work.jpg";
 const Work = () => {
   return (
     <div name="work" className="w-full md:h-screen text-gray-300 bg-[#0a192f]">
@@ -115,10 +115,10 @@ const Work = () => {
      
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white traccking-wider">
-                Quiz-Pop App - Fundamentals
+               Online Recruitment Agency
               </span>
               <div className="pt-8 text-center">
-                <a href="https://github.com/Dharini-MernStack/Quiz-Pop-TechTitans">
+                <a href="https://github.com/Dharini-MernStack/Recruitment-Solutions">
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-black font-bold text-lg"
@@ -127,7 +127,7 @@ const Work = () => {
                   </button>
                 </a>
 
-                <a href="https://dharini-mernstack.github.io/Quiz-Pop-TechTitans/">
+                <a href="https://recruitment-solutions.vercel.app/">
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
                        bg-black text-white font-bold text-lg"

@@ -25,14 +25,6 @@
 | ![](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink) | | | |
 
 
-
-
-## **Contributing**
-
-Contributions are always welcome!
-
-
-
 ## **Feedback**
 
 If you have any feedback, shoot me an email @ dharinisrinivasan.94@gmail.com
